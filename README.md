@@ -1,0 +1,1 @@
+target: Free configuration webpack

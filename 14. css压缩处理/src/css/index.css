@@ -1,0 +1,5 @@
+#title{
+    color: pink;
+    display: flex;
+    backface-visibility: visible;
+}
