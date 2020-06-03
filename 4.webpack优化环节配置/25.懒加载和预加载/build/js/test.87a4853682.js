@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[,function(n,o,t){"use strict";t.r(o),t.d(o,"mul",(function(){return c})),t.d(o,"count",(function(){return s})),console.log("test.js文件被加载了~");const c=(n,o)=>n*o,s=(n,o)=>n-o}]]);
+//# sourceMappingURL=test.87a4853682.js.map
